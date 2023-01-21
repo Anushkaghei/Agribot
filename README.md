@@ -4,5 +4,6 @@ According to a study, the agricultural sector employed about 50% of the workforc
 <h2>Solution</h2>
 To determine the soil characteristics we require the use of a robot crane with sensors such as NPK, temperature, humidity, tilt and moisture. The measured data is run through machine learning model and a report is produced which determines the best crop to grow in the given soil
 
+<h3></h3>
 
 ![image](https://user-images.githubusercontent.com/79694271/213883724-ac7bdad2-482c-427e-b2fc-54eff1758623.png)
